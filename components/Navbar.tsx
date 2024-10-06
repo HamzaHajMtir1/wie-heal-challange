@@ -13,7 +13,7 @@ export function Navbar() {
         </Link>
         <nav className="hidden md:flex space-x-6">
           <Link href="/" className="text-pink-700 hover:text-pink-500">Home</Link>
-          <Link href="#" className="text-pink-700 hover:text-pink-500">Doctors</Link>
+          <Link href="/doctors" className="text-pink-700 hover:text-pink-500">Doctors</Link>
           <Link href="/medicalpublications" className="text-pink-700 hover:text-pink-500">Medical publications</Link>
           <Link href="#" className="text-pink-700 hover:text-pink-500">Diagnostic</Link>
         </nav>
