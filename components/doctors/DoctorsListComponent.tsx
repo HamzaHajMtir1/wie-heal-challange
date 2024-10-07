@@ -27,7 +27,7 @@ export function DoctorsListComponent() {
       phone: "+1 (555) 123-4567",
       email: "emily.chen@example.com",
       location: "New York, NY",
-      imageUrl: "/placeholder.svg?height=100&width=100&text=EC"
+      imageUrl: "/doctor/doctor1.png?height=100&width=100"
     },
     {
       name: "Dr. Michael Johnson",
@@ -36,7 +36,7 @@ export function DoctorsListComponent() {
       phone: "+1 (555) 234-5678",
       email: "michael.johnson@example.com",
       location: "Los Angeles, CA",
-      imageUrl: "/placeholder.svg?height=100&width=100&text=MJ"
+      imageUrl: "/doctor/doctor2.png?height=100&width=100"
     },
     {
       name: "Dr. Sarah Thompson",
@@ -45,7 +45,7 @@ export function DoctorsListComponent() {
       phone: "+1 (555) 345-6789",
       email: "sarah.thompson@example.com",
       location: "Chicago, IL",
-      imageUrl: "/placeholder.svg?height=100&width=100&text=ST"
+      imageUrl: "/doctor/doctor3.png?height=100&width=100&text=ST"
     },
     {
       name: "Dr. David Lee",
@@ -54,7 +54,7 @@ export function DoctorsListComponent() {
       phone: "+1 (555) 456-7890",
       email: "david.lee@example.com",
       location: "Houston, TX",
-      imageUrl: "/placeholder.svg?height=100&width=100&text=DL"
+      imageUrl: "/doctor/doctor2.png?height=100&width=100&text=DL"
     },
     {
       name: "Dr. Rachel Green",
@@ -63,7 +63,7 @@ export function DoctorsListComponent() {
       phone: "+1 (555) 567-8901",
       email: "rachel.green@example.com",
       location: "Boston, MA",
-      imageUrl: "/placeholder.svg?height=100&width=100&text=RG"
+      imageUrl: "/doctor/doctor3.png?height=100&width=100&text=RG"
     },
     {
       name: "Dr. Alex Martinez",
@@ -72,7 +72,7 @@ export function DoctorsListComponent() {
       phone: "+1 (555) 678-9012",
       email: "alex.martinez@example.com",
       location: "Miami, FL",
-      imageUrl: "/placeholder.svg?height=100&width=100&text=AM"
+      imageUrl: "/doctor/doctor2.png?height=100&width=100&text=AM"
     }
   ]
 
