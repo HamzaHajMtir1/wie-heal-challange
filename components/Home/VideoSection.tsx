@@ -27,7 +27,7 @@ export function VideoSection() {
             ref={videoRef}
             className="w-full h-full object-cover rounded-lg"
             src="/home/psycho.webm"
-            poster="/home/psycho-thumbnail.png" // Optional thumbnail while video isn't playing
+            poster="/home/thumbnail.png" // Optional thumbnail while video isn't playing
           />
           <Button
             className="absolute inset-0 m-auto w-20 h-20 rounded-full bg-pink-500 hover:bg-pink-600 text-white flex items-center justify-center"

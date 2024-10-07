@@ -9,7 +9,7 @@ export function Navbar() {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/" className="flex items-center space-x-2">
           <Heart className="h-8 w-8 text-pink-500" />
-          <span className="text-2xl font-bold text-pink-700">Wie Heal Challenge</span>
+          <span className="text-2xl font-bold text-pink-700">Wie Care</span>
         </Link>
         <nav className="hidden md:flex space-x-6">
           <Link href="/" className="text-pink-700 hover:text-pink-500">Home</Link>

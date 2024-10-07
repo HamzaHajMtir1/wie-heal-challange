@@ -7,7 +7,7 @@ export function HeroSection() {
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-10 md:mb-0">
           <h1 className="text-4xl md:text-5xl font-bold text-pink-800 mb-6">Support, Educate, Empower</h1>
-          <p className="text-xl text-pink-700 mb-8">Join the Wie-Heal Challenge and connect with specialized doctors, access valuable resources, and find hope in your cancer journey.</p>
+          <p className="text-xl text-pink-700 mb-8">Join the Wie Care and connect with specialized doctors, access valuable resources, and find hope in your cancer journey.</p>
           <Button className="bg-pink-500 hover:bg-pink-600 text-white px-8 py-3 rounded-full text-lg">
             Get Started
           </Button>
