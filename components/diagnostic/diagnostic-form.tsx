@@ -155,7 +155,7 @@ export function DiagnosticFormComponent() {
                 onClick={handleSubmit}
                 className="w-full bg-pink-600 hover:bg-pink-700 text-white"
               >
-                <Send className="mr-2 h-4 w-4" /> Envoyer
+                <Send className="mr-2 h-4 w-4" /> Submit
               </Button>
             )}
           </CardFooter>
