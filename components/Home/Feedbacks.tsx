@@ -4,19 +4,19 @@ export function Feedbacks() {
   const feedbackData = [
     {
       message:
-        "The Wie Care helped me find strength when I thought I had none left. The community support was life-changing.",
+        "The We Care helped me find strength when I thought I had none left. The community support was life-changing.",
       name: "Emily Smith",
       status: "Breast Cancer Survivor",
     },
     {
       message:
-        "Wie Care reminded me that I am not alone in this fight. The tools and resources made all the difference.",
+        "We Care reminded me that I am not alone in this fight. The tools and resources made all the difference.",
       name: "Sarah Johnson",
       status: "Cancer Fighter",
     },
     {
       message:
-        "Thanks to Wie Care, I found hope again. The challenge gave me the courage to keep fighting.",
+        "Thanks to We Care, I found hope again. The challenge gave me the courage to keep fighting.",
       name: "Laura Brown",
       status: "Ovarian Cancer Survivor",
     },

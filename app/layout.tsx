@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Wie Care",
-  description: "Wie Care is a website designed to support cancer patients by boosting morale, connecting them with specialized doctors, and providing educational resources on cancer and treatment. Our goal is to empower patients with information and hope, fostering a compassionate online community.",
+  title: "We Care",
+  description: "We Care is a website designed to support cancer patients by boosting morale, connecting them with specialized doctors, and providing educational resources on cancer and treatment. Our goal is to empower patients with information and hope, fostering a compassionate online community.",
 };
 
 export default function RootLayout({
